@@ -1,25 +1,90 @@
-<h1 align="center">Hi 👋, I'm Prince Prajapati</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- ╔══════════════════════════════════════════════════════════════╗ ║ PRINCE PRAJAPATI — GITHUB README ║ ╚══════════════════════════════════════════════════════════════╝ --> <div align="center">
+👋 Hey, I'm Prince Prajapati
+💻 Full Stack Developer • 🤖 AI/ML Learner • 🚀 Tech Enthusiast
+<p> <a href="https://github.com/princeprajapatiprajapati10-web"> <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/> </a> <a href="mailto:princeprajapatiprajapati10@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/prince-prajapati-63b34b378"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.instagram.com/prince_prajapati.967"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p> <img src="https://komarev.com/ghpvc/?username=princeprajapatiprajapati10-web&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> </div>
+🧑‍💻 About Me
+👨‍💻 Developer       → Full Stack Development
+🤖 Currently        → Learning AI & Machine Learning
+🌱 Exploring        → Modern Web Technologies & AI
+💬 Ask me about     → Full Stack Development
+📍 Based in         → India
+📫 Email            → princeprajapatiprajapati10@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princeprajapatiprajapati10-web&label=Profile%20views&color=0e75b6&style=flat" alt="princeprajapatiprajapati10-web" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princeprajapatiprajapati10-web" alt="princeprajapatiprajapati10-web" /></a> </p>
+I enjoy building modern, responsive and scalable applications while continuously exploring new technologies.
 
-- 🌱 I’m currently learning **aiml**
+I'm particularly interested in combining full-stack development with Artificial Intelligence and Machine Learning to build useful real-world products.
 
-- 💬 Ask me about **full stack dev**
+🚀 What I'm Working On
 
-- 📫 How to reach me **princeprajapatiprajapati10@gmail.com**
+🌱 Learning Artificial Intelligence & Machine Learning
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+💻 Improving my Full Stack Development skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+🧠 Exploring practical applications of AI/ML
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princeprajapatiprajapati10-web&show_icons=true&locale=en&layout=compact" alt="princeprajapatiprajapati10-web" /></p>
+⚡ Building projects to strengthen my development skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princeprajapatiprajapati10-web&show_icons=true&locale=en" alt="princeprajapatiprajapati10-web" /></p>
+🔍 Continuously learning new technologies and development practices
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princeprajapatiprajapati10-web&" alt="princeprajapatiprajapati10-web" /></p>
+🛠️ Tech Stack
+👨‍💻 Languages
+<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css" /> </p>
+🎨 Frontend
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,sass" /> </p>
+⚙️ Backend
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,flask" /> </p>
+🗄️ Databases
+<p align="left"> <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> </p>
+🤖 AI / ML / Data Science
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" /> </p>
+☁️ DevOps & Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws" /> </p>
+🎨 Design & Other Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=photoshop,illustrator,unity" /> </p>
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=princeprajapatiprajapati10-web&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Prince's GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeprajapatiprajapati10-web&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Prince's Top Languages"/> </div>
+🔥 Contribution Streak
+<div align="center"> <img src="https://streak-stats.demolab.com/?user=princeprajapatiprajapati10-web&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=princeprajapatiprajapati10-web&theme=tokyo-night&hide_border=true&area=true&custom_title=Prince%27s%20Contribution%20Activity" alt="GitHub Activity Graph"/> </div>
+🏆 GitHub Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=princeprajapatiprajapati10-web&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/> </div>
+🌟 Featured Projects
+<div align="center"> <a href="https://github.com/princeprajapatiprajapati10-web/princeprajapatiprajapati10"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=princeprajapatiprajapati10-web&repo=princeprajapatiprajapati10&theme=tokyonight&hide_border=true" alt="Profile Repository"/> </a> </div>
+
+💡 More projects will be added here as I build and publish them.
+
+📌 Want to see everything?
+
+Explore all my repositories →
+
+📌 GitHub Profile Metrics
+<div align="center">
+📦 Public Repositories	⭐ Stars	👨‍💻 Contributions	🔥 Streak
+Dynamic	Dynamic	Dynamic	Dynamic
+</div>
+
+The statistics above are intentionally represented by the live GitHub cards and profile activity rather than hard-coded numbers, so the README doesn't become outdated.
+
+🐍 Contribution Snake
+<div align="center"> <!-- OPTIONAL: This section requires a GitHub Actions workflow to generate the snake SVG before it can display. --> <img src="https://raw.githubusercontent.com/princeprajapatiprajapati10-web/princeprajapatiprajapati10/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> </div>
+💡 Current Focus
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   💻 Full Stack Development                          │
+│   🤖 Artificial Intelligence & Machine Learning      │
+│   🧠 Problem Solving                                │
+│   🚀 Building Real-World Projects                   │
+│   🌱 Continuous Learning                             │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+
+🤝 Let's Connect
+<div align="center">
+
+I'm always interested in learning, building and connecting with other developers.
+
+<p> <a href="mailto:princeprajapatiprajapati10@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/prince-prajapati-63b34b378"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.instagram.com/prince_prajapati.967"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p>
+⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" width="100%" alt="Footer"/> </div>
